@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20This%20is%20JOY's%20GITHUB&fontSize=90)
 <!--
 **joy050308/joy050308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
